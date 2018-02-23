@@ -13,7 +13,7 @@
   "author": "Tiago Ferreira",
   "license": "ISC",
   "dependencies": {
-    "gulp-git": "1.7.1",
+    "gulp-git": "1.15.1",
     "gulp-util": "^3.0.7",
     "map-stream": "^0.1.0",
     "object-assign": "^4.0.1"
